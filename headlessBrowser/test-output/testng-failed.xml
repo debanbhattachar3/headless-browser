@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ALL]">
+  <test name="Maven All">
+    <classes>
+      <class name="com.sample.headlessBrowser.Test1"/>
+    </classes>
+  </test> <!-- Maven All -->
+</suite> <!-- Failed suite [ALL] -->

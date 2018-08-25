@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ALL">
+	<test name="Maven All">
+		<classes>
+			<class name="com.sample.headlessBrowser.Test1"></class>
+		</classes>
+	</test>
+</suite>
