@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="ALL" duration-ms="4417" started-at="2018-08-25T18:36:50Z" finished-at="2018-08-25T18:36:55Z">
+  <suite name="Default suite" duration-ms="5644" started-at="2018-08-25T19:25:02Z" finished-at="2018-08-25T19:25:08Z">
     <groups>
     </groups>
-    <test name="Maven All" duration-ms="4417" started-at="2018-08-25T18:36:50Z" finished-at="2018-08-25T18:36:55Z">
+    <test name="Default test" duration-ms="5644" started-at="2018-08-25T19:25:02Z" finished-at="2018-08-25T19:25:08Z">
       <class name="com.sample.headlessBrowser.Test1">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="beforeTest" is-config="true" duration-ms="4379" started-at="2018-08-26T00:06:50Z" finished-at="2018-08-26T00:06:55Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="beforeTest" is-config="true" duration-ms="5607" started-at="2018-08-26T00:55:02Z" finished-at="2018-08-26T00:55:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="test" duration-ms="6" started-at="2018-08-26T00:06:55Z" finished-at="2018-08-26T00:06:55Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="test" duration-ms="10" started-at="2018-08-26T00:55:08Z" finished-at="2018-08-26T00:55:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="after()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="after" is-config="true" duration-ms="4" started-at="2018-08-26T00:06:55Z" finished-at="2018-08-26T00:06:55Z">
+        <test-method status="PASS" signature="after()[pri:0, instance:com.sample.headlessBrowser.Test1@c00fff0]" name="after" is-config="true" duration-ms="7" started-at="2018-08-26T00:55:08Z" finished-at="2018-08-26T00:55:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
       </class> <!-- com.sample.headlessBrowser.Test1 -->
-    </test> <!-- Maven All -->
-  </suite> <!-- ALL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
